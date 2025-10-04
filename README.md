@@ -11,7 +11,7 @@ Um projeto do curso **JavaScript Completo ES6+ da Origamid**, focado em **intera
 
 | Desktop                                                                                     |
 | ------------------------------------------------------------------------------------------- |
-| ![desktop](https://github.com/user-attachments/assets/8d7e0150-70ee-4fbf-99bf-154e8b35a8b4) |
+| ![desktop](https://github.com/user-attachments/assets/1b6f6d49-a032-4f8e-9be4-904e5c986912) |
 
 ---
 
